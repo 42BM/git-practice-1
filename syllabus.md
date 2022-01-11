@@ -13,3 +13,4 @@ Week 1
 - Go over syllabus (practice annotation)
 - Overview of the Queer Newark Oral History Project and website.
 - Discussion of primary and secondary sources
+- Testing Exercise 5
